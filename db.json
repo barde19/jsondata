@@ -1,0 +1,366 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "U D O N",
+      "company": "The Bear House",
+      "price": 1600,
+      "color": ["#808080", "#893843", "#000080", "#00FF00"],
+      "size": ["XS", "S", "M", "L", "XL", "XXL"],
+      "image": [
+        {
+          "randomid1": "1",
+          "img_url": "https://imagescdn.vanheusenindia.com/img/app/product/8/858092-10101062.jpg?q=75&auto=format&w=342"
+        },
+        {
+          "randomid1": "2",
+          "img_url": "https://imagescdn.vanheusenindia.com/img/app/product/8/869779-10340563.jpg?q=75&auto=format&w=342"
+        },
+        {
+          "randomid1": "3",
+          "img_url": "https://imagescdn.vanheusenindia.com/img/app/product/8/869775-10340453.jpg?q=75&auto=format&w=342"
+        },
+        {
+          "randomid1": "4",
+          "img_url": "https://imagescdn.allensolly.com/img/app/product/8/865393-10246148.jpg?q=75&auto=format&w=342"
+        }
+      ],
+      "description": "Modern. Sharp. Innovative. The Bear House Menswear offers a premium selection of men's styles suitable for work and after hours.",
+      "category": "formal-shirt",
+      "pattern": "solid",
+      "featured": true
+    },
+    {
+      "id": "2",
+      "name": "C L E O",
+      "company": "The Bear House",
+      "price": 1400,
+      "color": ["#808080", "#893843", "#000080", "#00FF00"],
+      "size": ["XS", "S", "M", "L", "XL", "XXL"],
+      "image": [
+        {
+          "randomid1": "1",
+          "img_url": "https://imagescdn.vanheusenindia.com/img/app/product/8/858092-10101062.jpg?q=75&auto=format&w=342"
+        },
+        {
+          "randomid1": "2",
+          "img_url": "https://imagescdn.vanheusenindia.com/img/app/product/8/869779-10340563.jpg?q=75&auto=format&w=342"
+        },
+        {
+          "randomid1": "3",
+          "img_url": "https://imagescdn.vanheusenindia.com/img/app/product/8/869775-10340453.jpg?q=75&auto=format&w=342"
+        },
+        {
+          "randomid1": "4",
+          "img_url": "https://imagescdn.allensolly.com/img/app/product/8/865393-10246148.jpg?q=75&auto=format&w=342"
+        }
+      ],
+      "description": "Modern. Sharp. Innovative. The Bear House Menswear offers a premium selection of men's styles suitable for work and after hours.",
+      "category": "formal-shirt",
+      "pattern": "solid",
+      "featured": true
+    },
+    {
+      "id": "3",
+      "name": "A F S I N",
+      "company": "The Bear House",
+      "price": 1400,
+      "color": ["#808080", "#893843", "#000080", "#00FF00"],
+      "size": ["XS", "S", "M", "L", "XL", "XXL"],
+      "image": [
+        {
+          "randomid1": "1",
+          "img_url": "https://imagescdn.vanheusenindia.com/img/app/product/8/858092-10101062.jpg?q=75&auto=format&w=342"
+        },
+        {
+          "randomid1": "2",
+          "img_url": "https://imagescdn.vanheusenindia.com/img/app/product/8/869779-10340563.jpg?q=75&auto=format&w=342"
+        },
+        {
+          "randomid1": "3",
+          "img_url": "https://imagescdn.vanheusenindia.com/img/app/product/8/869775-10340453.jpg?q=75&auto=format&w=342"
+        },
+        {
+          "randomid1": "4",
+          "img_url": "https://imagescdn.allensolly.com/img/app/product/8/865393-10246148.jpg?q=75&auto=format&w=342"
+        }
+      ],
+      "description": "Modern. Sharp. Innovative. The Bear House Menswear offers a premium selection of men's styles suitable for work and after hours.",
+      "category": "formal-shirt",
+      "pattern": "solid",
+      "featured": true
+    },
+    {
+      "id": "4",
+      "name": "P O P E L S",
+      "company": "The Bear House",
+      "price": 1400,
+      "color": ["#808080", "#893843", "#000080", "#00FF00"],
+      "size": ["XS", "S", "M", "L", "XL", "XXL"],
+      "image": [
+        {
+          "randomid1": "1",
+          "img_url": "https://imagescdn.vanheusenindia.com/img/app/product/8/858092-10101062.jpg?q=75&auto=format&w=342"
+        },
+        {
+          "randomid1": "2",
+          "img_url": "https://imagescdn.vanheusenindia.com/img/app/product/8/869779-10340563.jpg?q=75&auto=format&w=342"
+        },
+        {
+          "randomid1": "3",
+          "img_url": "https://imagescdn.vanheusenindia.com/img/app/product/8/869775-10340453.jpg?q=75&auto=format&w=342"
+        },
+        {
+          "randomid1": "4",
+          "img_url": "https://imagescdn.allensolly.com/img/app/product/8/865393-10246148.jpg?q=75&auto=format&w=342"
+        }
+      ],
+      "description": "Modern. Sharp. Innovative. The Bear House Menswear offers a premium selection of men's styles suitable for work and after hours.",
+      "category": "formal-shirt",
+      "pattern": "solid",
+      "featured": true
+    },
+
+    {
+      "id": "5",
+      "name": "Men Blue",
+      "company": "Allen Solly",
+      "price": 1000,
+      "color": ["#0000FF", "#BAB86C", "#FFE5B4"],
+      "size": ["XS", "S", "M", "L", "XL", "XXL"],
+      "image": [
+        {
+          "randomid1": "1",
+          "img_url": "https://imagescdn.vanheusenindia.com/img/app/product/8/858092-10101062.jpg?q=75&auto=format&w=342"
+        },
+        {
+          "randomid1": "2",
+          "img_url": "https://imagescdn.vanheusenindia.com/img/app/product/8/869779-10340563.jpg?q=75&auto=format&w=342"
+        },
+        {
+          "randomid1": "3",
+          "img_url": "https://imagescdn.vanheusenindia.com/img/app/product/8/869775-10340453.jpg?q=75&auto=format&w=342"
+        },
+        {
+          "randomid1": "4",
+          "img_url": "https://imagescdn.allensolly.com/img/app/product/8/865393-10246148.jpg?q=75&auto=format&w=342"
+        }
+      ],
+      "description": "Modern. Sharp. Innovative. The Bear House Menswear offers a premium selection of men's styles suitable for work and after hours.",
+      "category": "formal-shirt",
+      "patten": "cheaked",
+      "featured": true
+    },
+    {
+      "id": "6",
+      "name": "Men Olive Green",
+      "company": "Allen Solly",
+      "price": 100,
+      "color": ["#0000FF", "#BAB86C", "#FFE5B4"],
+      "size": ["XS", "S", "M", "L", "XL", "XXL"],
+      "image": [
+        {
+          "randomid1": "1",
+          "img_url": "https://imagescdn.vanheusenindia.com/img/app/product/8/858092-10101062.jpg?q=75&auto=format&w=342"
+        },
+        {
+          "randomid1": "2",
+          "img_url": "https://imagescdn.vanheusenindia.com/img/app/product/8/869779-10340563.jpg?q=75&auto=format&w=342"
+        },
+        {
+          "randomid1": "3",
+          "img_url": "https://imagescdn.vanheusenindia.com/img/app/product/8/869775-10340453.jpg?q=75&auto=format&w=342"
+        },
+        {
+          "randomid1": "4",
+          "img_url": "https://imagescdn.allensolly.com/img/app/product/8/865393-10246148.jpg?q=75&auto=format&w=342"
+        }
+      ],
+      "description": "Modern. Sharp. Innovative. The Bear House Menswear offers a premium selection of men's styles suitable for work and after hours.",
+      "category": "formal-shirt",
+      "patten": "cheaked",
+      "featured": true
+    },
+    {
+      "id": "7",
+      "name": "Men Peach",
+      "company": "Allen Solly",
+      "price": 1400,
+      "color": ["#0000FF", "#BAB86C", "#FFE5B4"],
+      "size": ["XS", "S", "M", "L", "XL", "XXL"],
+      "image": [
+        {
+          "randomid1": "1",
+          "img_url": "https://imagescdn.vanheusenindia.com/img/app/product/8/858092-10101062.jpg?q=75&auto=format&w=342"
+        },
+        {
+          "randomid1": "2",
+          "img_url": "https://imagescdn.vanheusenindia.com/img/app/product/8/869779-10340563.jpg?q=75&auto=format&w=342"
+        },
+        {
+          "randomid1": "3",
+          "img_url": "https://imagescdn.vanheusenindia.com/img/app/product/8/869775-10340453.jpg?q=75&auto=format&w=342"
+        },
+        {
+          "randomid1": "4",
+          "img_url": "https://imagescdn.allensolly.com/img/app/product/8/865393-10246148.jpg?q=75&auto=format&w=342"
+        }
+      ],
+      "description": "Modern. Sharp. Innovative. The Bear House Menswear offers a premium selection of men's styles suitable for work and after hours.",
+      "category": "formal-shirt",
+      "patten": "cheaked",
+      "featured": true
+    },
+    {
+      "id": "8",
+      "name": "Men Yellow",
+      "company": "Allen Solly",
+      "price": 1400,
+      "color": ["#0000FF", "#BAB86C", "#FFE5B4"],
+      "size": ["XS", "S", "M", "L", "XL", "XXL"],
+      "image": [
+        {
+          "randomid1": "1",
+          "img_url": "https://imagescdn.vanheusenindia.com/img/app/product/8/858092-10101062.jpg?q=75&auto=format&w=342"
+        },
+        {
+          "randomid1": "2",
+          "img_url": "https://imagescdn.vanheusenindia.com/img/app/product/8/869779-10340563.jpg?q=75&auto=format&w=342"
+        },
+        {
+          "randomid1": "3",
+          "img_url": "https://imagescdn.vanheusenindia.com/img/app/product/8/869775-10340453.jpg?q=75&auto=format&w=342"
+        },
+        {
+          "randomid1": "4",
+          "img_url": "https://imagescdn.allensolly.com/img/app/product/8/865393-10246148.jpg?q=75&auto=format&w=342"
+        }
+      ],
+      "description": "Modern. Sharp. Innovative. The Bear House Menswear offers a premium selection of men's styles suitable for work and after hours.",
+      "category": "formal-shirt",
+      "patten": "cheaked",
+      "featured": true
+    },
+
+    {
+      "id": "9",
+      "name": "Men Black",
+      "company": "Van Heusen",
+      "price": 1100,
+      "color": ["#0000FF", "#BAB86C", "#800000", "#FFC0CB"],
+      "size": ["XS", "S", "M", "L", "XL", "XXL"],
+      "image": [
+        {
+          "randomid1": "1",
+          "img_url": "https://imagescdn.vanheusenindia.com/img/app/product/8/858092-10101062.jpg?q=75&auto=format&w=342"
+        },
+        {
+          "randomid1": "2",
+          "img_url": "https://imagescdn.vanheusenindia.com/img/app/product/8/869779-10340563.jpg?q=75&auto=format&w=342"
+        },
+        {
+          "randomid1": "3",
+          "img_url": "https://imagescdn.vanheusenindia.com/img/app/product/8/869775-10340453.jpg?q=75&auto=format&w=342"
+        },
+        {
+          "randomid1": "4",
+          "img_url": "https://imagescdn.allensolly.com/img/app/product/8/865393-10246148.jpg?q=75&auto=format&w=342"
+        }
+      ],
+      "description": "Upgrade your wardrobe with this Black Solid shirt, tailored in Regular Fit from Van Heusen by Van Heusen.",
+      "category": "formal-shirt",
+      "patten": "Solid",
+      "featured": true
+    },
+    {
+      "id": "10",
+      "name": "Men White",
+      "company": "Van Heusen",
+      "price": 1900,
+      "color": ["#0000FF", "#BAB86C", "#800000", "#FFC0CB"],
+      "size": ["XS", "S", "M", "L", "XL", "XXL"],
+      "image": [
+        {
+          "randomid1": "1",
+          "img_url": "https://imagescdn.vanheusenindia.com/img/app/product/8/858092-10101062.jpg?q=75&auto=format&w=342"
+        },
+        {
+          "randomid1": "2",
+          "img_url": "https://imagescdn.vanheusenindia.com/img/app/product/8/869779-10340563.jpg?q=75&auto=format&w=342"
+        },
+        {
+          "randomid1": "3",
+          "img_url": "https://imagescdn.vanheusenindia.com/img/app/product/8/869775-10340453.jpg?q=75&auto=format&w=342"
+        },
+        {
+          "randomid1": "4",
+          "img_url": "https://imagescdn.allensolly.com/img/app/product/8/865393-10246148.jpg?q=75&auto=format&w=342"
+        }
+      ],
+      "description": "Upgrade your wardrobe with this White Textured shirt, tailored in Regular Fit from Van Heusen by Van Heusen.",
+      "category": "formal-shirt",
+      "patten": "Solid",
+      "featured": true
+    },
+    {
+      "id": "11",
+      "name": "Men Maroon",
+      "company": "Van Heusen",
+      "price": 1400,
+      "color": ["#0000FF", "#BAB86C", "#800000", "#FFC0CB"],
+      "size": ["XS", "S", "M", "L", "XL", "XXL"],
+      "image": [
+        {
+          "randomid1": "1",
+          "img_url": "https://imagescdn.vanheusenindia.com/img/app/product/8/858092-10101062.jpg?q=75&auto=format&w=342"
+        },
+        {
+          "randomid1": "2",
+          "img_url": "https://imagescdn.vanheusenindia.com/img/app/product/8/869779-10340563.jpg?q=75&auto=format&w=342"
+        },
+        {
+          "randomid1": "3",
+          "img_url": "https://imagescdn.vanheusenindia.com/img/app/product/8/869775-10340453.jpg?q=75&auto=format&w=342"
+        },
+        {
+          "randomid1": "4",
+          "img_url": "https://imagescdn.allensolly.com/img/app/product/8/865393-10246148.jpg?q=75&auto=format&w=342"
+        }
+      ],
+      "description": "Upgrade your wardrobe with this White Textured shirt, tailored in Regular Fit from Van Heusen by Van Heusen.",
+      "category": "formal-shirt",
+      "patten": "Solid",
+      "featured": true
+    },
+    {
+      "id": "12",
+      "name": "Men Pink",
+      "company": "Van Heusen",
+      "price": 1400,
+      "color": ["#0000FF", "#BAB86C", "#800000", "#FFC0CB"],
+      "size": ["XS", "S", "M", "L", "XL", "XXL"],
+      "image": [
+        {
+          "randomid1": "1",
+          "img_url": "https://imagescdn.vanheusenindia.com/img/app/product/8/858092-10101062.jpg?q=75&auto=format&w=342"
+        },
+        {
+          "randomid1": "2",
+          "img_url": "https://imagescdn.vanheusenindia.com/img/app/product/8/869779-10340563.jpg?q=75&auto=format&w=342"
+        },
+        {
+          "randomid1": "3",
+          "img_url": "https://imagescdn.vanheusenindia.com/img/app/product/8/869775-10340453.jpg?q=75&auto=format&w=342"
+        },
+        {
+          "randomid1": "4",
+          "img_url": "https://imagescdn.allensolly.com/img/app/product/8/865393-10246148.jpg?q=75&auto=format&w=342"
+        }
+      ],
+      "description": " Upgrade your wardrobe with this White Textured shirt, tailored in Regular Fit from Van Heusen by Van Heusen.",
+      "category": "formal-shirt",
+      "patten": "Solid",
+      "featured": true
+    }
+  ]
+}
